@@ -30,7 +30,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?`
 
 Type `yes` and press enter, then give your password; the whole interaction should look something like this
 
-[Screen Shot 2023-04-06 at 12.54.58 PM 2.pdf](https://github.com/lmillan1/cse15l-lab-reports/files/11174150/Screen.Shot.2023-04-06.at.12.54.58.PM.2.pdf)
+<img width="635" alt="Screen Shot 2023-04-06 at 1 19 42 PM" src="https://user-images.githubusercontent.com/130090548/230485826-f6d5416c-75b1-4bb4-9216-464bdf61b8fb.png">
 
 
 ### Trying Some Commands
