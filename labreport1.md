@@ -35,5 +35,15 @@ Type `yes` and press enter, then give your password; the whole interaction shoul
 
 ### Trying Some Commands
 Try running commands `cd`, `ls`, `pwd`, `mkdir`, and `cp` and display what happens:
+Here are some specific commans to try:
+
+
+`cd ~`
+
+`cd`
+
+`ls -lat`
+
+`ls -a`
 
 <img width="627" alt="Screen Shot 2023-04-06 at 1 21 29 PM" src="https://user-images.githubusercontent.com/130090548/230486181-8ca49c6c-89e4-4f93-b5e6-20bd7b536bec.png">
