@@ -7,7 +7,8 @@ Once installed, open the application and it should look something like this:
 ![Image](https://ucsd-cse15l-s23.github.io/images/vscode.png)
 ### Remotely Connecting
 In this step we will use VScode/terminal to connect to a remote computer over the Internet to do work there.
-**If you are using Windows you must install:
+
+If you are using Windows you must install:
 
  [Git for Windows](https://gitforwindows.org/)
 
