@@ -55,13 +55,18 @@ Here are some specific commans to try:
 
 
 
-ls
+`ls`
+
 
 <img width="407" alt="Screen Shot 2023-04-21 at 8 11 03 PM" src="https://user-images.githubusercontent.com/130090548/233758919-b23cb28e-989d-4ac7-9911-27c7b013c12c.png">
+
+
 It is pretty much a command that list the files in the current directory
 
-ls -lat
+`ls -lat`
 <img width="479" alt="Screen Shot 2023-04-21 at 8 17 11 PM" src="https://user-images.githubusercontent.com/130090548/233759099-c28fbdae-c15d-4c48-8658-561482b05bc3.png">
+
+
 Displays all files and directories in the current directory, sorted by modification time in reverse order.
 
 
