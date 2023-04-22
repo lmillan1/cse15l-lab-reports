@@ -21,6 +21,7 @@ Look up your course-specific account for CSE15L here:
 
 [CSE15L Account](https://sdacs.ucsd.edu/~icc/index.php)
 
+For help in resseting your password, here is a tutorial [Tutorial](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view?usp=share_link)
 
 
  Then, to use `ssh`, open a terminal in VScode. (Ctrl or Command + , or use the Terminal → New Terminal menu option). Your command will look like this, but with the `zz` replaced by the letters in your course-specific account. 
