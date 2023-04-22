@@ -16,6 +16,12 @@ Once installed, use the steps in this post to set your default terminal to use t
 
  [Using Bash on Windoes in VScode](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994)
  
+ To find your CSE15L Account
+Look up your course-specific account for CSE15L here:
+[CSE15L Account](https://sdacs.ucsd.edu/~icc/index.php)
+
+
+
  Then, to use `ssh`, open a terminal in VScode. (Ctrl or Command + , or use the Terminal → New Terminal menu option). Your command will look like this, but with the `zz` replaced by the letters in your course-specific account. 
  
  `$ ssh cs15lsp23zz@ieng6.ucsd.edu`
