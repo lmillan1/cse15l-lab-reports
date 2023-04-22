@@ -26,6 +26,9 @@ Steps:
 -Click on link, should be something like this:
 
 
+<img width="855" alt="Screen Shot 2023-04-21 at 8 02 19 PM" src="https://user-images.githubusercontent.com/130090548/233758547-ba81170c-34fa-4e39-bd24-c8da02a5b885.png">
+
+
 
 
  Then, to use `ssh`, open a terminal in VScode. (Ctrl or Command + , or use the Terminal → New Terminal menu option). Your command will look like this, but with the `zz` replaced by the letters in your course-specific account. 
