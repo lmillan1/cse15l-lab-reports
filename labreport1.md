@@ -64,6 +64,7 @@ Here are some specific commans to try:
 It is pretty much a command that list the files in the current directory
 
 `ls -lat`
+
 <img width="479" alt="Screen Shot 2023-04-21 at 8 17 11 PM" src="https://user-images.githubusercontent.com/130090548/233759099-c28fbdae-c15d-4c48-8658-561482b05bc3.png">
 
 
