@@ -54,12 +54,10 @@ Try running commands `cd`, `ls`, `pwd`, `mkdir`, and `cp` and display what happe
 Here are some specific commans to try:
 
 
-`cd ~`
+ls
 
-`cd`
+<img width="407" alt="Screen Shot 2023-04-21 at 8 11 03 PM" src="https://user-images.githubusercontent.com/130090548/233758919-b23cb28e-989d-4ac7-9911-27c7b013c12c.png">
 
-`ls -lat`
 
-`ls -a`
 
 <img width="627" alt="Screen Shot 2023-04-06 at 1 21 29 PM" src="https://user-images.githubusercontent.com/130090548/230486181-8ca49c6c-89e4-4f93-b5e6-20bd7b536bec.png">
