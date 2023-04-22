@@ -18,6 +18,7 @@ Once installed, use the steps in this post to set your default terminal to use t
  
  To find your CSE15L Account
 Look up your course-specific account for CSE15L here:
+
 [CSE15L Account](https://sdacs.ucsd.edu/~icc/index.php)
 
 
