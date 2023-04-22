@@ -75,4 +75,4 @@ Displays all files and directories in the current directory, sorted by modificat
 
 <img width="627" alt="Screen Shot 2023-04-06 at 1 21 29 PM" src="https://user-images.githubusercontent.com/130090548/230486181-8ca49c6c-89e4-4f93-b5e6-20bd7b536bec.png">
 As you can see from this screenshot it uses various run commands like cd which allows you to move between directories.
-And the long list of output near the end is the information from the directory.
+And the long list of output near the end is the information from the directories.
